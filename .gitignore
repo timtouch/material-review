@@ -1,2 +1,4 @@
 /.idea/
 review.iml
+/target/
+/src/main/resources/hibernate.cfg.xml
